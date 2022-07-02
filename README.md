@@ -1,7 +1,10 @@
+![68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966](https://user-images.githubusercontent.com/93840910/177012194-e469bda9-f484-4aa7-a401-52fb15c5a0df.gif)
+
 ### Hi there 👋
 
 <!--
-**Joe-Khawand/Joe-Khawand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Joe-K![68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966](https://user-images.githubusercontent.com/93840910/177012190-51136a7d-b34a-48a8-b9ea-06581f930e95.gif)
+hawand/Joe-Khawand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
