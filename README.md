@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="4%">, I'm Joe</h1>
-<h3 align="center">I'm a passionate robotics engineering student at [Ecole Polytechnique](https://www.polytechnique.edu)</h3>
+<h3 align="center">I'm a passionate robotics engineering student at Ecole Polytechnique.</h3>
 
 
 ## 🙋‍♂️ About Me
