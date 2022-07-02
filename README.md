@@ -12,6 +12,8 @@
 
 - 🌱 I’m currently learning about **Embedded systems engineering**
 
+- 📄 Know about my experiences [www.joe-khawand.tech](https://www.joe-khawand.tech)
+
 - 📫 How to reach me **joe.khawand@polytechnique.edu**
 
 - ⚡ Fun fact **I play and produce music.**
