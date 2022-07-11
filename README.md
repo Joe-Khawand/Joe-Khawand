@@ -2,7 +2,7 @@
 <a href="#"><img width="45%" height="auto" src="https://user-images.githubusercontent.com/93840910/177012194-e469bda9-f484-4aa7-a401-52fb15c5a0df.gif" height="175px"/></a>
 </p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="7%">, I'm Joe</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20%">, I'm Joe</h1>
 <h3 align="center">I'm a passionate robotics engineering student at Ecole Polytechnique.</h3>
 
 
