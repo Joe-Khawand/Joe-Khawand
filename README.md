@@ -8,9 +8,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Quality and Testing** at [iFollow](https://www.ifollow.fr)
-
-- 🌱 I’m currently learning about **Embedded systems engineering**
+- 🌱 I’m currently learning about **AI and autonomous systems**
 
 - 📄 Know about my experiences [www.joe-khawand.tech](https://www.joe-khawand.tech)
 
