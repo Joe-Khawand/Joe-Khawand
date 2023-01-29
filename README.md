@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning about **AI and autonomous systems**
 
-- 📄 Know about my experiences [www.joe-khawand.tech](https://www.joe-khawand.tech)
+- 📄 About me [www.joe-khawand.tech](https://www.joe-khawand.tech)
 
 - 📫 How to reach me **joe.khawand@polytechnique.edu**
 
