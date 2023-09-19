@@ -8,9 +8,7 @@
 
 ## About Me
 
-- I’m currently learning about **AI and autonomous systems**
-
-- About me [www.joe-khawand.tech](https://www.joe-khawand.tech)
+- I’m currently learning about **AI and Machine Learning**
 
 - How to reach me **joe.khawand@polytechnique.edu**
 
